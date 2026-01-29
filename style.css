@@ -3,7 +3,6 @@ body {
     background-color: #E0BBE4;
     padding: 0;
     margin: 0;
-    width: 100%;
 }
 
 .hero {
@@ -127,25 +126,21 @@ body {
 .trans-p-c {
     height: 200px;
     background-image: linear-gradient(to bottom, rgba(224, 187, 228), rgba(254, 200, 216));
-    width: 100%;
 }
 
 .trans-l-p {
     height: 200px;
     background-image: linear-gradient(to bottom,rgba(255, 223, 211), rgba(224, 187, 228));
-    width: 100%;
 }
 
 .trans-p-la {
     height: 200px;
     background-image: linear-gradient(to bottom, rgba(224, 187, 228), rgba(254, 200, 216));
-    width: 100%;
 }
 
 .trans-c-l {
     height: 200px;
     background-image: linear-gradient(to bottom, rgba(254, 200, 216), rgba(255, 223, 211));
-    width: 100%;
 }
 
 .container-cotton {
